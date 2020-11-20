@@ -1,6 +1,6 @@
 
 # dealing with files
-<div style="text-align: right"> # .jpg / .png / .mp4 </div>
+# <div style="text-align: right"> .jpg / .png / .mp4 </div>
 
 ![text](https://inductivebiblestudyapp.com/wp-content/uploads/2017/06/godhands-820x400.jpg)
 
